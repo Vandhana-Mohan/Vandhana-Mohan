@@ -2,10 +2,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://linkedin.com/in/vandhanamohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandhanamohan" height="30" width="40" /></a>
-<a href="https://instagram.com/vandhana-mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vandhana-mohan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vandhanamohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vandhanamohan" height="30" width="40" /></a>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandhana-mohan&label=Profile%20views&color=0e75b6&style=flat" alt="vandhana-mohan" /> </p>
+    <a href="https://www.linkedin.com/in/vandhanamohan/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mohan.vandhana@gmail.com" target="blank">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.codewars.com/users/vandhana-mohan" target="blank">
+      <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=red" alt="Codewars Badge"/>
+    </a>
+   <img src="https://komarev.com/ghpvc/?username=VandhanaMohan&style=flat-square&color=blue" alt=""/>
+  </div>
+  <br />
+  
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandhana-mohan" alt="vandhana-mohan" /></a> </p>
   </div>
 </div>
@@ -21,7 +30,7 @@ I am currently a Pursuit Fellow learning Full Stack Web Developer Course.
 
 - :zap:   In my free time, I solve problems on CodeWar, Leet Code and read tech articles.
 
-- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vandhanamohan/) ; Email me: vandhanamohan@pursuit.org
+- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VandhanaMohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vandhanamohan/) [![Gmail Badge](https://img.shields.io/badge/-VandhanaMohan-red?style=flat&logo=Gmail&logoColor=white)](mohan.vandhana@gmail.com)
 
 ---
 

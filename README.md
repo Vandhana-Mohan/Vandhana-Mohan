@@ -11,14 +11,13 @@
     </h1>
   </div>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 ---
 
 ### :woman_technologist: About Me :
-I am a Pursuit Fellow learning Full Stack Developer Course.
-- :telescope:   I’m aspiring as a Software Engineer and contributing to frontend and backend for building web applications.
+I am currently a Pursuit Fellow learning Full Stack Web Developer Course.
+
+- :telescope:   I’m aspiring as a Software Engineer and contribute to frontend and backend for building web applications.
 
 - :seedling:   Exploring Full Stack Web Development.
 

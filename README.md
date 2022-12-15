@@ -30,7 +30,8 @@ I am currently a Pursuit Fellow learning Full Stack Web Developer Course.
 
 - :zap:   In my free time, I solve problems on CodeWar, Leet Code and read tech articles.
 
-- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VandhanaMohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vandhanamohan/) [![Gmail Badge](https://img.shields.io/badge/-VandhanaMohan-red?style=flat&logo=Gmail&logoColor=white)](mohan.vandhana@gmail.com) ![CodeWars](https://www.codewars.com/users/vandhana-mohan/badges/small?theme=light)
+- :mailbox:  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VandhanaMohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vandhanamohan/) [![Gmail Badge](https://img.shields.io/badge/-VandhanaMohan-red?style=flat&logo=Gmail&logoColor=white)](mohan.vandhana@gmail.com) ![CodeWars](https://www.codewars.com/users/vandhana-mohan/badges/small?theme=light)[![LeetCode user vandhanamohan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvandhanamohan&logo=leetcode&logoColor=yellow)](https://leetcode.com/vandhanamohan/) 
+
 
 ---
 

@@ -11,11 +11,11 @@
     <a href="https://www.codewars.com/users/vandhana-mohan" target="blank">
       <img src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=Codewars&logoColor=red" alt="Codewars Badge"/>
     </a>
-   <img src="https://komarev.com/ghpvc/?username=VandhanaMohan&style=flat-square&color=blue" alt=""/>
+   <img src="https://komarev.com/ghpvc/?username=VandhanaMohan&style=for-the-badge&color=blue" alt="views"/>
   </div>
   <br />
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandhana-mohan" alt="vandhana-mohan" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandhana-mohan" alt="vandhana-mohan" /></a>
   </div>
 </div>
 

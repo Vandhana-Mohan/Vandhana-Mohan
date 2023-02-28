@@ -67,7 +67,6 @@ I am currently a Pursuit Fellow learning Full Stack Web Developer Course.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original-wordmark.svg" title="slack" alt="slack" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-
 </div>
 
 ---

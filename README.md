@@ -15,7 +15,7 @@ I am  a Full Stack Web Developer
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vandhana-Mohan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vandhana-Mohan)](https://github.com/Vandhana-Mohan/github-profile-trophy)
 
 ---
 

@@ -16,22 +16,6 @@ I am currently a Pursuit Fellow learning Full Stack Web Developer Course.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b56d3a5457ae0b91e7a7fffa8de3d8e77a542d118b89c84c2597da99e5efc6a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d677265656e"><img src="https://camo.githubusercontent.com/b56d3a5457ae0b91e7a7fffa8de3d8e77a542d118b89c84c2597da99e5efc6a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d677265656e" title="Express" alt="Express Badge" height="40" data-canonical-src="https://img.shields.io/badge/JS-black?style=for-the-badge&amp;logo=express&amp;logoColor=green" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" 
-  href="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
- </div>
 
 ---
 
